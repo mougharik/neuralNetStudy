@@ -10,3 +10,8 @@ Comparing various architectures (fully-connected and multiple convolutional vari
     python3 study.py --net 1 --init 1   # effective learning
     python3 study.py --net 1 --init 2   # fast learning
     python3 study.py --net 1 --init 3   # slow learning
+
+## todo
+* add visualization functionality for kernel filters and activations for each layer
+* add options for dropout, momentum, and bagging
+
